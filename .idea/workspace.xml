@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b134183-32d6-40dc-a547-9d5769c11ef9" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/questions/questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/BalancedTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/InvertTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/TreePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/FindBottomLeftValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/LeftLeavesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/PathSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/Temp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/array/MonotonicStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/array/PreSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/array/SlideWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/linkedList/LinkNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/tree/InOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/tree/IterTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/tree/LevelOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/tree/PreOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/tree/Traversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/src/tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/src/tree/TreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/questions/src/tree/TreePaths.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +79,7 @@
       <workItem from="1669687538820" duration="694000" />
       <workItem from="1669705902216" duration="2307000" />
       <workItem from="1669713000155" duration="5824000" />
-      <workItem from="1669772168242" duration="2504000" />
+      <workItem from="1669772168242" duration="6192000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1669688153318</created>
@@ -113,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669688209986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1669774842284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669774842284</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
