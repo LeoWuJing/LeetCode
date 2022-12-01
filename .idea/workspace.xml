@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b134183-32d6-40dc-a547-9d5769c11ef9" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/FindBottomLeftValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/LeftLeavesSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/FlattenToLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/SumRootToLeaf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/questions/src/tree/TreePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/questions/src/tree/TreePaths.java" afterDir="false" />
     </list>
@@ -79,7 +78,10 @@
       <workItem from="1669687538820" duration="694000" />
       <workItem from="1669705902216" duration="2307000" />
       <workItem from="1669713000155" duration="5824000" />
-      <workItem from="1669772168242" duration="6192000" />
+      <workItem from="1669772168242" duration="7792000" />
+      <workItem from="1669797842773" duration="1796000" />
+      <workItem from="1669879717204" duration="1262000" />
+      <workItem from="1669883150661" duration="10227000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1669688153318</created>
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669774842284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1669778771716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669778771716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
