@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b134183-32d6-40dc-a547-9d5769c11ef9" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/AddOneRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/InorderAndPostorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/MaxTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/PreorderAndInorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/PreorderAndPostorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions/src/tree/TreeTilt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/FindModeBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/InsertBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questions/src/tree/ValidateBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/questions/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +88,9 @@
       <workItem from="1669972493606" duration="6324000" />
       <workItem from="1670161714944" duration="1510000" />
       <workItem from="1670240693669" duration="6761000" />
-      <workItem from="1670293344568" duration="1430000" />
+      <workItem from="1670293344568" duration="1785000" />
+      <workItem from="1670553679740" duration="3413000" />
+      <workItem from="1670575766246" duration="3673000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1669688153318</created>
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669903813120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit">
+      <created>1670294964295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670294964295</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
